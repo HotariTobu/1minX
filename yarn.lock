@@ -3323,6 +3323,7 @@ stream-to-promise@3.0.0:
     stream-to-array "~2.3.0"
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0, string-width@^4.2.0, string-width@^4.2.3:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -3355,6 +3356,7 @@ string_decoder@~1.1.1:
     safe-buffer "~5.1.0"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==
@@ -3697,9 +3699,9 @@ vite-plugin-web-extension@^3.0.1:
     yaml "^2.2.1"
 
 vite-plugin-zip-pack@^1.0.6:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/vite-plugin-zip-pack/-/vite-plugin-zip-pack-1.2.0.tgz#750c301353277fb3543609b7e615ad22cb5910d7"
-  integrity sha512-odf4UkCUGXriJPS1oq6MmSsEWw5uHhYvhv2/RCilNhSlT7x2M26opexaYrPta0ej/YUS5bNrJD15bVRf0GJVsA==
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/vite-plugin-zip-pack/-/vite-plugin-zip-pack-1.2.1.tgz#b1be88a6b8dc6f9ee12a0ea2164c8fa74cd24ddb"
+  integrity sha512-TKQ4BY+u9tpq0/mi/Dm3J8to8Bta8zAdqQrfysTKCoH4kgrvI8FrqSlFx+CjJ4nz0F/YD+0zb142HiEqUrLXeA==
   dependencies:
     jszip "^3.10.1"
 
@@ -3810,6 +3812,7 @@ winreg@0.0.12:
   integrity sha512-typ/+JRmi7RqP1NanzFULK36vczznSNN8kWVA9vIqXyv8GhghUlwhGp1Xj3Nms1FsPcNnsQrJOR10N58/nQ9hQ==
 
 "wrap-ansi-cjs@npm:wrap-ansi@^7.0.0", wrap-ansi@^7.0.0:
+  name wrap-ansi-cjs
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/wrap-ansi/-/wrap-ansi-7.0.0.tgz#67e145cff510a6a6984bdf1152911d69d2eb9e43"
   integrity sha512-YVGIj2kamLSTxw6NsZjoBxfSwsn0ycdesmc4p+Q21c5zPuZ1pl+NfxVdxPtdHvmNVOQ6XSYG4AUtyt/Fi7D16Q==
