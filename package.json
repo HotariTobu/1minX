@@ -10,7 +10,7 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "@types/chrome": "^0.0.262",
+    "@types/chrome": "^0.0.263",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5",
