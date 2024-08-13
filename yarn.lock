@@ -3704,9 +3704,9 @@ vite-plugin-web-extension@^3.0.1:
     yaml "^2.2.1"
 
 vite-plugin-zip-pack@^1.0.6:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/vite-plugin-zip-pack/-/vite-plugin-zip-pack-1.2.2.tgz#aeabe4d277b96db0f8e453462e0465f5ac5245b4"
-  integrity sha512-7TZP3NxiiZY6zTqekzaFzZ/VTEyN1xmfwStyuEy4i1E5NE5BMd6VAFvxmQ5sHUS6qZtZlgNASU3iTPkYzWTuhw==
+  version "1.2.4"
+  resolved "https://registry.yarnpkg.com/vite-plugin-zip-pack/-/vite-plugin-zip-pack-1.2.4.tgz#3e38e958b7da14a850113177e66a1e50bfa70b73"
+  integrity sha512-QgZEeiWayE2ZvMbkvcqWf94p/Z5YeNHZlkwXWIkkoISjePiWVXKRX2xCGmsURe9acGVdkobZ31dFJuCp3j1hMg==
   dependencies:
     jszip "^3.10.1"
 
